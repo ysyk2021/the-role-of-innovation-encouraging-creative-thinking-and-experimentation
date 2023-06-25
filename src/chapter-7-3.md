@@ -1,5 +1,4 @@
-Chapter 7: Measuring and Evaluating Innovation: Analyzing Results and Making Improvements
-=========================================================================================
+# Analyzing Results and Making Improvements
 
 In this chapter, we will discuss the importance of measuring and evaluating innovation efforts, and strategies for analyzing results and making improvements.
 

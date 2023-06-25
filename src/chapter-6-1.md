@@ -1,5 +1,4 @@
-Chapter 6: Building an Innovative Team: Techniques for Building an Innovative Team
-==================================================================================
+# Techniques for Building an Innovative Team
 
 Building an innovative team is critical for achieving success through innovation. An innovative team is made up of individuals who possess the skills and traits necessary for creativity and experimentation. This chapter provides techniques for building an innovative team that can help organizations recruit and retain team members who are best suited for innovation.
 

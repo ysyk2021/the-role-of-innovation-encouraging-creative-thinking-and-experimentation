@@ -1,5 +1,4 @@
-Chapter 5: Encouraging Experimentation and Risk-Taking: Providing Resources and Support
-=======================================================================================
+# Providing Resources and Support
 
 Encouraging experimentation and risk-taking is critical for fostering a culture of innovation. However, taking risks can also be intimidating and risky without the proper resources and support. This chapter provides techniques for providing resources and support to encourage experimentation and risk-taking in an organization.
 

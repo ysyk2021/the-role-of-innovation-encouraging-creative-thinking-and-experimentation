@@ -1,5 +1,4 @@
-Chapter 6: Building an Innovative Team: Recruiting and Retaining Innovative Team Members
-========================================================================================
+# Recruiting and Retaining Innovative Team Members
 
 Building an innovative team is critical for achieving success through innovation. However, recruiting and retaining innovative team members can be challenging. This chapter provides techniques for building an innovative team by recruiting and retaining innovative team members.
 

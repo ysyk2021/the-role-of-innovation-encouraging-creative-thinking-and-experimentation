@@ -1,5 +1,4 @@
-Chapter 2: Overview of Innovation: Techniques for Overcoming Common Challenges in Encouraging Innovation
-========================================================================================================
+# Techniques for Overcoming Common Challenges in Encouraging Innovation
 
 In this chapter, we will explore common challenges organizations face when attempting to encourage innovation, and techniques for overcoming these challenges.
 

@@ -1,5 +1,4 @@
-Chapter 3: Understanding Creative Thinking: Exploring the Relationship between Creative Thinking and Innovation
-===============================================================================================================
+# Exploring the Relationship between Creative Thinking and Innovation
 
 In this chapter, we will explore the relationship between creative thinking and innovation, and discuss the importance of understanding creative thinking in promoting innovation.
 

@@ -1,5 +1,4 @@
-Chapter 3: Understanding Creative Thinking: Identifying Types of Creative Thinking
-==================================================================================
+# Identifying Types of Creative Thinking
 
 In this chapter, we will explore different types of creative thinking and how they can be fostered within an organization.
 

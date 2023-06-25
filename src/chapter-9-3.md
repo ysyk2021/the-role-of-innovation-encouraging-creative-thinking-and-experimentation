@@ -1,5 +1,4 @@
-Chapter 9: Enhancing Leadership through Innovation: Building a Culture of Continuous Improvement
-================================================================================================
+# Building a Culture of Continuous Improvement
 
 Effective leadership is critical for fostering innovation and creating a culture of continuous improvement. Leaders play an important role in encouraging creative thinking and experimentation by providing resources, empowering employees, rewarding innovation, and celebrating successes. This chapter provides techniques for building a culture of continuous improvement through innovative leadership.
 

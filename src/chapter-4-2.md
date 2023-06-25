@@ -1,5 +1,4 @@
-Chapter 4: Creating a Culture of Innovation: Establishing a Safe Environment for Risk-Taking
-============================================================================================
+# Establishing a Safe Environment for Risk-Taking
 
 In this chapter, we will discuss the importance of establishing a safe environment for risk-taking in creating a culture of innovation.
 

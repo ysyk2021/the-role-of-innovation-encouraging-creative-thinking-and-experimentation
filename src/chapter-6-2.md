@@ -1,5 +1,4 @@
-Chapter 6: Building an Innovative Team: Identifying Key Traits and Skills for Innovation
-========================================================================================
+# Identifying Key Traits and Skills for Innovation
 
 Building an innovative team is critical to achieving success through innovation. An innovative team is made up of individuals who possess the skills and traits necessary for creativity and experimentation. This chapter focuses on identifying key traits and skills for innovation that can help organizations recruit and retain team members who are best suited for innovation.
 

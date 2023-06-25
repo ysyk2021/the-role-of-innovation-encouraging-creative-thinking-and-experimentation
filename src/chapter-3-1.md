@@ -1,5 +1,4 @@
-Chapter 3: Understanding Creative Thinking: Techniques for Understanding Creative Thinking
-==========================================================================================
+# Techniques for Understanding Creative Thinking
 
 In this chapter, we will explore some techniques for understanding creative thinking and how it can be fostered within an organization.
 

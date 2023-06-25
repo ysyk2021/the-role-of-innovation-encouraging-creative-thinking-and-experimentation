@@ -1,5 +1,4 @@
-Chapter 7: Measuring and Evaluating Innovation: Establishing Key Performance Indicators (KPIs)
-==============================================================================================
+# Establishing Key Performance Indicators (KPIs)
 
 Measuring and evaluating innovation is critical for understanding the effectiveness of innovation efforts and identifying areas for improvement. Key Performance Indicators (KPIs) are metrics used to measure progress towards specific goals or objectives. This chapter provides techniques for establishing KPIs that can help organizations measure and evaluate their innovation performance.
 
