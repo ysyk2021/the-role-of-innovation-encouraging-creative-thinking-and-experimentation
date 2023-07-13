@@ -1,4 +1,4 @@
-Chapter 9: Enhancing Leadership through Innovation - Techniques for Enhancing Leadership through Innovation
+Techniques for Enhancing Leadership through Innovation
 ===========================================================================================================
 
 Innovation is not just about generating new ideas; it's also about creating a culture that fosters creativity, experimentation, and risk-taking. Leaders play a crucial role in building this type of culture and encouraging innovation within their organizations. In this chapter, we'll explore different techniques for enhancing leadership through innovation.

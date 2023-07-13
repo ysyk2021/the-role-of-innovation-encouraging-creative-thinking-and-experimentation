@@ -1,4 +1,4 @@
-Chapter 9: Enhancing Leadership through Innovation - Leading by Example
+Leading by Example
 =======================================================================
 
 Leaders play a crucial role in fostering innovation within their organizations. They set the tone for the company culture and provide guidance and support for employees to be creative, experimental, and willing to take risks. In this chapter, we'll explore how leaders can enhance their leadership through innovation by leading by example.

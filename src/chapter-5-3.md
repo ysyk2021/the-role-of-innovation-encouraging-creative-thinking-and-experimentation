@@ -1,4 +1,4 @@
-Chapter 5: Encouraging Experimentation and Risk-Taking - Celebrating Failure as a Learning Opportunity
+Celebrating Failure as a Learning Opportunity
 ======================================================================================================
 
 Encouraging experimentation and risk-taking is crucial for fostering innovation and creativity. However, many people are afraid of failure and avoid taking risks that could lead to new ideas and breakthroughs. In this chapter, we'll explore how celebrating failure as a learning opportunity can encourage experimentation and risk-taking.
