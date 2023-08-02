@@ -1,7 +1,7 @@
 The Role of Innovation: Encouraging Creative Thinking and Experimentation
 =========================================================================
 
-Chapter 5: Leading by Example
+Leading by Example
 -----------------------------
 
 In this chapter, we explore the concept of leading by example and its role in encouraging innovation within organizations. We delve into the various ways leaders can inspire and motivate their teams through their own actions, setting a precedent for creative thinking and experimentation.

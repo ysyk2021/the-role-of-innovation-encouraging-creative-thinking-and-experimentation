@@ -1,7 +1,7 @@
 The Role of Innovation: Encouraging Creative Thinking and Experimentation
 =========================================================================
 
-Chapter 9: Techniques for Encouraging Experimentation and Risk-Taking in Innovation
+Techniques for Encouraging Experimentation and Risk-Taking in Innovation
 -----------------------------------------------------------------------------------
 
 In this chapter, we explore various techniques and approaches for fostering a culture of experimentation and risk-taking within organizations. By creating an environment that encourages and supports these behaviors, businesses can unlock their innovative potential and drive transformative outcomes.

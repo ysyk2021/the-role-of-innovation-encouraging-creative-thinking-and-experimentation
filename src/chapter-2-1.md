@@ -1,7 +1,7 @@
 The Role of Innovation: Encouraging Creative Thinking and Experimentation
 =========================================================================
 
-Chapter 7: Different Perspectives and Approaches to Innovation
+Different Perspectives and Approaches to Innovation
 --------------------------------------------------------------
 
 In this chapter, we explore the importance of embracing different perspectives and approaches to innovation. By recognizing that innovation can come from various sources and by encouraging diversity in thought, organizations can unlock new opportunities, challenge conventional thinking, and drive transformative change.

@@ -1,7 +1,7 @@
 The Role of Innovation: Encouraging Creative Thinking and Experimentation
 =========================================================================
 
-Chapter 6: Building a Culture of Continuous Improvement
+Building a Culture of Continuous Improvement
 -------------------------------------------------------
 
 In this chapter, we delve into the significance of building a culture of continuous improvement within organizations. We explore the various elements that contribute to fostering an environment where innovation, creative thinking, and experimentation thrive.

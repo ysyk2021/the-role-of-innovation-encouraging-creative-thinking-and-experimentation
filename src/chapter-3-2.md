@@ -1,7 +1,7 @@
 The Role of Innovation: Encouraging Creative Thinking and Experimentation
 =========================================================================
 
-Chapter 3: Identifying Types of Creative Thinking
+Identifying Types of Creative Thinking
 -------------------------------------------------
 
 In this chapter, we explore the various types of creative thinking that contribute to innovation. By understanding and recognizing these different approaches to creativity, organizations can tap into a diverse range of perspectives and ideas, leading to enhanced innovation capabilities.

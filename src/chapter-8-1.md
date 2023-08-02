@@ -1,7 +1,7 @@
 The Role of Innovation: Encouraging Creative Thinking and Experimentation
 =========================================================================
 
-Chapter 9: Techniques for Sustaining an Innovative Culture
+Techniques for Sustaining an Innovative Culture
 ----------------------------------------------------------
 
 In this chapter, we explore various techniques and strategies for sustaining an innovative culture within organizations. We delve into the key elements that contribute to fostering a culture of innovation and examine practical approaches to nurture and sustain it over time.

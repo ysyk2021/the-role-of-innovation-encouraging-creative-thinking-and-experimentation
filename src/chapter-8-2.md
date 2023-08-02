@@ -1,7 +1,7 @@
 The Role of Innovation: Encouraging Creative Thinking and Experimentation
 =========================================================================
 
-Chapter 7: Continuous Learning and Improvement
+Continuous Learning and Improvement
 ----------------------------------------------
 
 In this chapter, we explore the concept of continuous learning and improvement and its critical role in fostering innovation, creative thinking, and experimentation within organizations. We delve into the various strategies and practices that promote ongoing learning and development.

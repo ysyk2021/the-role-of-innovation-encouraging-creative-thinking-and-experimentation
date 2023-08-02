@@ -1,7 +1,7 @@
 The Role of Innovation: Encouraging Creative Thinking and Experimentation
 =========================================================================
 
-Chapter 9: Establishing a Safe Environment for Risk-Taking
+Establishing a Safe Environment for Risk-Taking
 ----------------------------------------------------------
 
 In this chapter, we explore the importance of creating a safe environment for risk-taking within organizations to foster innovation. By removing the fear of failure, encouraging calculated risks, and providing support and guidance, leaders can empower their teams to push boundaries, think creatively, and bring innovative ideas to life.

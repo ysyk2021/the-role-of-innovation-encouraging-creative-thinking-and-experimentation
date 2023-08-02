@@ -1,7 +1,7 @@
 The Role of Innovation: Encouraging Creative Thinking and Experimentation
 =========================================================================
 
-Chapter 9: Providing Resources and Support for Innovation
+Providing Resources and Support for Innovation
 ---------------------------------------------------------
 
 In this chapter, we delve into the critical role of providing resources and support to foster innovation within organizations. By allocating the necessary resources and creating a supportive environment, organizations can empower individuals and teams to explore new ideas, take risks, and drive meaningful innovation.

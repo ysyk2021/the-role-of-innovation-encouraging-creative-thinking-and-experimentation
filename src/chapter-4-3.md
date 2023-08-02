@@ -1,7 +1,7 @@
 The Role of Innovation: Encouraging Creative Thinking and Experimentation
 =========================================================================
 
-Chapter 10: Promoting Collaboration and Idea-Sharing
+Promoting Collaboration and Idea-Sharing
 ----------------------------------------------------
 
 In this chapter, we delve into the importance of promoting collaboration and idea-sharing within organizations to foster innovation. By creating a culture that values collaboration, encourages diverse perspectives, and facilitates the free flow of ideas, leaders can unleash the collective creativity of their teams and drive transformative change.

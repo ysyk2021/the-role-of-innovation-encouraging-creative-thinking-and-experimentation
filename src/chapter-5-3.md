@@ -1,7 +1,7 @@
 The Role of Innovation: Encouraging Creative Thinking and Experimentation
 =========================================================================
 
-Chapter 7: Celebrating Failure as a Learning Opportunity
+Celebrating Failure as a Learning Opportunity
 --------------------------------------------------------
 
 In this chapter, we delve into the concept of celebrating failure as a valuable learning opportunity in the realm of innovation. By shifting our perspective on failure and creating a culture that embraces and learns from it, organizations can foster a more resilient, agile, and innovative workforce.

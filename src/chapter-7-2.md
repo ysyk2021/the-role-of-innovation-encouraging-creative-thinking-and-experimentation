@@ -1,7 +1,7 @@
 The Role of Innovation: Encouraging Creative Thinking and Experimentation
 =========================================================================
 
-Chapter 7: Establishing Key Performance Indicators (KPIs) for Innovation
+Establishing Key Performance Indicators (KPIs) for Innovation
 ------------------------------------------------------------------------
 
 In this chapter, we explore the importance of establishing Key Performance Indicators (KPIs) to effectively measure and track innovation efforts. By defining clear and meaningful KPIs, organizations can align their innovation initiatives with strategic goals, monitor progress, and drive continuous improvement.

@@ -1,7 +1,7 @@
 The Role of Innovation: Encouraging Creative Thinking and Experimentation
 =========================================================================
 
-Chapter 5: Techniques for Understanding Creative Thinking
+Techniques for Understanding Creative Thinking
 ---------------------------------------------------------
 
 In this chapter, we explore various techniques that can help individuals and organizations better understand the process of creative thinking. By gaining insights into the inner workings of creativity, leaders can foster an environment that nurtures and enhances creative thinking.

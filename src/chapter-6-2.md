@@ -1,7 +1,7 @@
 The Role of Innovation: Encouraging Creative Thinking and Experimentation
 =========================================================================
 
-Chapter 5: Identifying Key Traits and Skills for Innovation
+Identifying Key Traits and Skills for Innovation
 -----------------------------------------------------------
 
 In this chapter, we delve into the essential traits and skills required for fostering innovation. By understanding and cultivating these key characteristics, individuals and organizations can unlock their creative potential and drive meaningful change.

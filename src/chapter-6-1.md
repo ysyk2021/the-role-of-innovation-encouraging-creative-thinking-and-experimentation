@@ -1,7 +1,7 @@
 The Role of Innovation: Encouraging Creative Thinking and Experimentation
 =========================================================================
 
-Chapter 10: Techniques for Building an Innovative Team
+Techniques for Building an Innovative Team
 ------------------------------------------------------
 
 In this chapter, we explore practical techniques and strategies for building an innovative team within organizations. By assembling the right mix of individuals, fostering collaboration, and creating an environment that nurtures creativity and experimentation, leaders can cultivate a high-performing team that drives innovation and generates groundbreaking ideas.

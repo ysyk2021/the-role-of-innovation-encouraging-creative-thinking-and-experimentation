@@ -1,7 +1,7 @@
 The Role of Innovation: Encouraging Creative Thinking and Experimentation
 =========================================================================
 
-Chapter 7: Techniques for Enhancing Leadership through Innovation
+Techniques for Enhancing Leadership through Innovation
 -----------------------------------------------------------------
 
 In this chapter, we explore various techniques that leaders can employ to enhance their leadership skills through innovation. By integrating innovative practices into their leadership approach, leaders can foster a culture of creativity and drive organizational success.

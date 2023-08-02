@@ -1,7 +1,7 @@
 The Role of Innovation: Encouraging Creative Thinking and Experimentation
 =========================================================================
 
-Chapter 2: Exploring the Relationship between Creative Thinking and Innovation
+Exploring the Relationship between Creative Thinking and Innovation
 ------------------------------------------------------------------------------
 
 In this chapter, we delve into the intricate relationship between creative thinking and innovation. By understanding how creative thinking fuels innovation, organizations can foster a culture that encourages and nurtures the generation of novel ideas and breakthrough solutions.

@@ -1,7 +1,7 @@
 The Role of Innovation: Encouraging Creative Thinking and Experimentation
 =========================================================================
 
-Chapter 7: Techniques for Creating a Culture of Innovation
+Techniques for Creating a Culture of Innovation
 ----------------------------------------------------------
 
 In this chapter, we explore practical techniques and strategies for fostering a culture of innovation within organizations. By implementing these approaches, leaders can inspire creative thinking, encourage experimentation, and establish an environment that nurtures innovation at every level.

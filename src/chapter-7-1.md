@@ -1,7 +1,7 @@
 The Role of Innovation: Encouraging Creative Thinking and Experimentation
 =========================================================================
 
-Chapter 12: Techniques for Measuring and Evaluating Innovation
+Techniques for Measuring and Evaluating Innovation
 --------------------------------------------------------------
 
 In this chapter, we explore various techniques and methodologies for effectively measuring and evaluating innovation. By implementing robust measurement frameworks, organizations can gain valuable insights into the effectiveness of their innovation initiatives, make data-driven decisions, and drive continuous improvement.

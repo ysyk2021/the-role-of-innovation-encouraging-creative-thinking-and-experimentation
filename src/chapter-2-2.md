@@ -1,7 +1,7 @@
 The Role of Innovation: Encouraging Creative Thinking and Experimentation
 =========================================================================
 
-Chapter 9: The Impact of Innovation on Organizational Performance
+The Impact of Innovation on Organizational Performance
 -----------------------------------------------------------------
 
 In this chapter, we explore the significant impact that innovation can have on organizational performance. By embracing innovation as a strategic driver, organizations can enhance their competitive advantage, achieve sustainable growth, and adapt to evolving market dynamics.

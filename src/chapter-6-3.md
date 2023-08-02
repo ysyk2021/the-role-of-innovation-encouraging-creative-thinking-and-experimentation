@@ -1,7 +1,7 @@
 The Role of Innovation: Encouraging Creative Thinking and Experimentation
 =========================================================================
 
-Chapter 9: Recruiting and Retaining Innovative Team Members
+Recruiting and Retaining Innovative Team Members
 -----------------------------------------------------------
 
 In this chapter, we delve into the strategies and considerations for recruiting and retaining innovative team members. Building a team with diverse perspectives, skills, and a passion for innovation is essential for driving creativity and experimentation within an organization. By adopting effective recruitment and retention practices, leaders can attract and retain individuals who will contribute to a culture of innovation.
