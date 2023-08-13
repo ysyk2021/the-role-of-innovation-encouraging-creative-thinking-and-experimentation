@@ -1,8 +1,7 @@
 Establishing Key Performance Indicators (KPIs)
 =======================================================
 
-Introduction
-------------
+
 
 Innovation is a critical driver of growth in today's dynamic business landscape. Encouraging creative thinking and experimentation plays a vital role in fostering innovation within organizations. However, to effectively measure and manage innovation efforts, it is essential to establish Key Performance Indicators (KPIs). This chapter explores the significance of KPIs in promoting innovation and provides guidance on how to establish effective KPIs.
 
