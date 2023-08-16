@@ -8,10 +8,6 @@ Techniques for Enhancing Leadership through Innovation
 
 Techniques for enhancing leadership through innovation include:
 
-### Leading by Example
-
-Leaders should model the behavior they want to see in their team members. By demonstrating a willingness to take risks, experiment, and learn from failure, leaders can encourage their team members to do the same.
-
 ### Empowering Employees
 
 Empowering employees to make decisions and take ownership of their work can encourage them to take risks and find creative solutions. Leaders should delegate responsibilities and provide autonomy while also providing support and guidance when needed.
@@ -23,6 +19,10 @@ Providing resources and support such as time, money, and tools can give employee
 ### Rewarding Innovation and Celebrating Successes
 
 Rewarding innovation and celebrating successes can motivate employees to continue to innovate and experiment. Leaders should recognize and reward innovative ideas and efforts, celebrate successes, and share success stories with the team.
+
+## Leading by Example
+
+Leaders should model the behavior they want to see in their team members. By demonstrating a willingness to take risks, experiment, and learn from failure, leaders can encourage their team members to do the same.
 
 Building a Culture of Continuous Improvement
 --------------------------------------------
