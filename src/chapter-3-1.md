@@ -1,5 +1,3 @@
-Techniques for Understanding Creative Thinking
-=======================================================
 
 Creative thinking plays a crucial role in promoting innovation and driving forward progress in various fields. Understanding the mechanisms behind creative thinking is essential for individuals and organizations seeking to foster a culture of innovation. This chapter explores techniques that can be employed to gain a deeper understanding of creative thinking processes.
 

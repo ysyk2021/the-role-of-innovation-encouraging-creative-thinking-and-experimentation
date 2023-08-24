@@ -1,5 +1,3 @@
-Chapter 7: Measuring and Evaluating Innovation
-==============================================
 
 Measuring and evaluating innovation is critical for understanding the effectiveness of innovation efforts and identifying areas for improvement. This chapter provides techniques for measuring and evaluating innovation that can help organizations assess their innovation performance and make informed decisions about future innovation strategies.
 
@@ -42,5 +40,4 @@ Conclusion
 ----------
 
 Measuring and evaluating innovation is critical for understanding the effectiveness of innovation efforts and identifying areas for improvement. Techniques for measuring and evaluating innovation include establishing KPIs, conducting innovation surveys and audits, leveraging open innovation platforms, and tracking intellectual property. Establishing specific and relevant KPIs, analyzing results, and making improvements based on analysis are all important steps in effectively measuring and evaluating innovation performance.
-
 

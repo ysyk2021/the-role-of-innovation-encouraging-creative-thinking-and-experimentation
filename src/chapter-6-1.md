@@ -1,5 +1,3 @@
-Techniques for Building an Innovative Team
-===================================================
 
 In today's rapidly changing world, fostering innovation within organizations has become crucial for survival and success. One of the key factors in driving innovation is building a team that embraces creativity, encourages experimentation, and fosters a culture of continuous learning. This chapter explores various techniques to help build an innovative team that can contribute to the overall growth and development of an organization.
 

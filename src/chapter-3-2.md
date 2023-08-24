@@ -1,5 +1,3 @@
-Identifying Types of Creative Thinking
-===============================================
 
 Innovation is fueled by creative thinking, which enables individuals and organizations to explore new ideas, challenge conventional wisdom, and experiment with novel solutions. To understand the role of innovation in encouraging creative thinking, it is important to first identify the different types of creative thinking that exist. This chapter aims to provide an overview of some common types of creative thinking and their significance in fostering innovation.
 

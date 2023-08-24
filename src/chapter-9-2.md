@@ -1,7 +1,3 @@
-Leading by Example
-===========================
-
-
 
 In this chapter, we will explore the concept of "Leading by Example" and its role in encouraging creative thinking and experimentation within an organization. We will discuss how effective leadership can inspire and motivate individuals to think outside the box, take risks, and embrace innovation. By setting a positive example, leaders can create a culture that fosters creativity, ultimately driving organizational success.
 

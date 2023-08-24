@@ -1,5 +1,3 @@
-Chapter 8: Sustaining an Innovative Culture
-===========================================
 
 In this chapter, we will discuss the importance of sustaining an innovative culture and strategies for doing so.
 

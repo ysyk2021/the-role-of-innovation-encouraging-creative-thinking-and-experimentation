@@ -1,5 +1,3 @@
-Chapter 4: Creating a Culture of Innovation
-===========================================
 
 In this chapter, we will discuss the importance of creating a culture of innovation and techniques for doing so.
 

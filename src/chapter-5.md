@@ -1,5 +1,3 @@
-Chapter 5: Encouraging Experimentation and Risk-Taking
-======================================================
 
 In this chapter, we will discuss the importance of encouraging experimentation and risk-taking in creating a culture of innovation.
 

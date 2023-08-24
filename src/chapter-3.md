@@ -1,5 +1,3 @@
-Chapter 3: Understanding Creative Thinking
-==========================================
 
 In this chapter, we will explore the concept of creative thinking and its importance in promoting innovation within an organization. We will also discuss techniques for understanding creative thinking, different types of creative thinking, and the relationship between creative thinking and innovation.
 

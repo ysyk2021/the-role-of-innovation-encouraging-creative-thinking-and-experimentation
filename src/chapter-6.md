@@ -1,5 +1,3 @@
-Chapter 6: Building an Innovative Team
-======================================
 
 Building an innovative team is crucial for fostering creativity, experimentation, and risk-taking. In this chapter, we'll explore different techniques for building an innovative team, including identifying key traits and skills for innovation, recruiting and retaining innovative team members.
 
